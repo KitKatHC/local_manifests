@@ -24,5 +24,6 @@
 
 	<project name="android_vendor_samsung" path="vendor/samsung/" revision="cm-11.0" remote="HC" />
 	
+	<project name="wild_kernel_samsung_msm8660" path="kernel/samsung/msm8660-common" revision="android-msm-hercules-3.0" remote="emmanuel" />
 
 </manifest>
