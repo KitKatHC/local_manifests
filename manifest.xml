@@ -21,6 +21,7 @@
 
 	<project name="android_device_samsung_hercules" path="device/samsung/hercules" revision="cm-11.0" remote="HC" />
 	<project name="android_device_samsung_celox-common" path="device/samsung/celox-common" revision="cm-11.0" remote="HC" />
+	<project name="android_device_samsung_msm8660-common" path="device/samsung/msm8660-common" revision="cm-11.0" remote="HC" />
 
 	<project name="android_vendor_samsung" path="vendor/samsung/" revision="cm-11.0" remote="HC" />
 	
